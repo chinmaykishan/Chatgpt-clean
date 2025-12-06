@@ -13,6 +13,3 @@ Perfect beginner-friendly project showing real API usage and a professional UI.
 - Perfect for GitHub Pages deployment  
 
 ---
-
-## 📸 Screenshots
-(Add your screenshots here)
