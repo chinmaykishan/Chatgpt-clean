@@ -2,7 +2,7 @@ const chatBox = document.getElementById("chat-box");
 const input = document.getElementById("user-input");
 const sendBtn = document.getElementById("send-btn");
 
-const API_KEY = "YOUR_API_KEY";
+const API_KEY = "sk-abcd1234abcd1234abcd1234abcd1234abcd1234";
 
 function addMessage(text, sender) {
     let msg = document.createElement("div");
